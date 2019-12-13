@@ -28,8 +28,8 @@
             <true/>
         </dict>
     </dict>
-    <key>MinimumVersion</key>
-    <string>0.2.0</string>
+    <key>MiniumumVersion</key>
+    <string>1.0</string>
     <key>ParentRecipe</key>
     <string>com.github.rtrouton.download.microsoftteams</string>
     <key>Process</key>
